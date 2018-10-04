@@ -3,7 +3,7 @@ For fumctional and unit test use the below command:
 ```
 $ node_env=test
 ```
-
+Run the app:
 ```
 $ npm i
 $ node server.js
