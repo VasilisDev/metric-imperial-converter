@@ -1,6 +1,8 @@
 # metric-imperial-converter
-
-SET NODE_ENV to test without quotes
+For fumctional and unit test use the below command:
+```
+$ node_env=test
+```
 
 ```
 $ npm i
