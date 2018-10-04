@@ -1,5 +1,5 @@
 # metric-imperial-converter
-For fumctional and unit test use the below command:
+For functional and unit test use the below command:
 ```
 $ node_env=test
 ```
